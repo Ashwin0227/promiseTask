@@ -1,0 +1,49 @@
+body {background-color: rgb(178, 237, 252);}
+#main-header{
+    text-align: center;
+    font-size: 4em;
+    color: rgb(4, 34, 100);
+    /* font-style: italic; */
+    font-weight: bold;
+    font-family: "Courier New";
+}
+#sub-header{
+    text-align: center;
+    color: rgb(4, 34, 100);
+    font-size: 1em;
+    font-weight: bold;
+    font-family: "Courier New";
+}
+#fact-text{
+    text-align: center;
+    color: rgb(4, 34, 100);
+    font-size: 1em;
+    font-weight: bold;
+    font-family: "Courier New";
+}
+.button {
+    position: absolute;
+    text-align: center;
+    left: 40%;
+    right: 40%;
+    font-size: 1em;
+    font-weight: bold;
+    color: rgb(9, 255, 70);
+    background-color: #f44336;
+    top: auto;
+
+}
+#MAIN-BUTTON{
+    text-align: center;
+    color: rgb(4, 34, 100);
+    font-size: 1em;
+    font-weight: bold;
+    font-family: "Courier New";
+}
+.button {
+    box-shadow: 0 4px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  }
+  
+.button:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+  }
